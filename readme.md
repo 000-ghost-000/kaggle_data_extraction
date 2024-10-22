@@ -33,3 +33,12 @@ pip install -r requirements.txt
 
 python main.py
 ```
+##### file structure
+``` bash
+
+kaggle_data_extractor/
+├── data/                 # Directory for storing downloaded datasets
+├── main.py               # Main script for downloading and loading the dataset
+├── requirements.txt      # List of dependencies for the project
+└── README.md             # Optional: Instructions for the project
+```
